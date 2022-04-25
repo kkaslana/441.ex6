@@ -1,0 +1,59 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+border: 2px solid blue;
+display: inline-block;
+margin: 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  background-color: #fcc;
+  color: #500;
+  padding: 0.5rem;
+  display: block;
+}
+
+ 
+ body 
+{ -border: 1px solid blue;height: 900px;width:100%;background:linear-gradient(#A8A8A8,#A68064,#A8A8A8); }
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.5rem;
+   text-align: center;<!居中格式>
+}
+nav li {
+  display: inline-block;
+}
+nav {
+  border: 1px solid #333;
+  margin: 1rem auto;
+  background-color: #eee;
+  background-image: url("https://assets.codepen.io/296057/lil-graydots.png");
+  border-bottom: 5px solid #00bff3;
+  border-top: 5px solid #00bff3;
+}
+{
+    margin: 0;
+    padding: 0;
+}
+.parent {
+    position: relative;
+}
+.search {
+    width: 400px;
+    height: 40px;
+    border-radius: 18px;
+    outline: none;
+    border: 1px solid #ccc;
+    padding-left: 0px;
+    
+}
+
+
+
